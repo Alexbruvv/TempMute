@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TempMute:jar">
+    <output-path>$USER_HOME$/Documents/TheVaultMC/Test Server/plugins</output-path>
+    <root id="archive" name="TempMute.jar">
+      <element id="module-output" name="TempMute" />
+    </root>
+  </artifact>
+</component>

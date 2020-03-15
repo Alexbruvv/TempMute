@@ -1,0 +1,6 @@
+name: TempMute
+version: 1.0
+main: co.alexbruvv.tempmute.TempMute
+commands:
+  tempmute:
+  unmute:
